@@ -1,1 +1,1 @@
-Figmadan sadece görsele bakarak yaptığım projem
+Figmadan sadece görsele bakarak tüm kodları elimle yazdığım projem

@@ -1,0 +1,267 @@
+.melon {
+  width: 200px;
+  position: absolute;
+  left: -10px;
+}
+
+.poppins {
+  font-family: "Poppins";
+}
+
+.bg {
+  background: linear-gradient(107.56deg, #309975 0%, #58b368 100%);
+}
+.bg2 {
+  background: linear-gradient(107.56deg, #309975 0%, #58b368 100%);
+}
+
+.title {
+  color: white;
+  font-size: 70px;
+  padding-top: 50px;
+}
+
+.line {
+  border-bottom: 3px solid #ffffff;
+  position: absolute;
+  top: 335px;
+  left: 110px;
+}
+
+.widthh {
+  color: white;
+  font-size: 48px;
+}
+
+.yesil2 {
+  margin-top: 100px;
+  color: white;
+  font-family: "Poppins";
+}
+
+.p {
+  color: white;
+}
+
+.imgg {
+  position: absolute;
+  top: 62 px;
+  left: 500px;
+  width: 900px;
+  height: 601px;
+}
+
+.center {
+  text-align: center;
+}
+
+.green {
+  color: #309975;
+}
+
+.visa {
+  font-style: italic;
+  color: #20656f;
+  font-weight: 700;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.total {
+  font-weight: 500;
+}
+
+.totaleur {
+  font-weight: 500;
+}
+
+.borderubb {
+  position: absolute;
+  top: 2230px;
+  left: 1000px;
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.borderub2 {
+  position: absolute;
+  top: 2350px;
+  left: 1000px;
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.usd {
+  position: absolute;
+  left: 310px;
+}
+
+.yedibir {
+  position: absolute;
+  left: 420px;
+  top: 2240px;
+}
+
+.yedialti {
+  position: absolute;
+  left: 620px;
+  top: 2240px;
+}
+
+.eur {
+  position: absolute;
+  top: 2350px;
+  left: 310px;
+}
+
+.sekizbes {
+  position: absolute;
+  left: 620px;
+  top: 2345px;
+}
+
+.yedibir {
+  position: absolute;
+  left: 420px;
+  top: 2240px;
+}
+
+.sekizdort {
+  position: absolute;
+  left: 420px;
+  top: 2345px;
+}
+
+.img3 {
+  position: absolute;
+  left: 39%;
+  top: 2880px;
+}
+
+.card3 {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 150px;
+  width: 400px;
+  height: 250px;
+   border-radius: 5%; 
+  border-color: white;
+  box-shadow: 2px 7px 10px rgba(0, 0, 0, 0.15);
+  padding: 10px;
+  margin-bottom: 50px;
+  padding-left: 30px;
+  left: 55%;
+  top: 2750px;
+}
+
+
+.card3:hover {
+  background-color: #309975;
+  transition: all 0.3s;
+}
+
+
+.card3:hover .tpbank{
+  color: white;
+}
+
+.card4 {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 150px;
+  width: 400px;
+  height: 250px;
+   border-radius: 5%; 
+  border-color: white;
+  box-shadow: 2px 7px 10px rgba(0, 0, 0, 0.15);
+  padding: 10px;
+  padding-left: 30px;
+  left: 55%;
+  top: 3080px;
+}
+
+.card4:hover {
+  background-color: #309975;
+  transition: all 0.3s;
+}
+
+
+.card4:hover .tpbank{
+  color: white;
+}
+
+
+.card2 {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 150px;
+  width: 400px;
+  height: 250px;
+   border-radius: 5%; 
+  border-color: white;
+  box-shadow: 2px 7px 10px rgba(0, 0, 0, 0.15);
+  padding-left: 30px;
+  top: 2750px;
+  color: black;
+}
+
+.tpbank {
+  color: #575757;
+}
+
+
+.card2:hover {
+  background-color: #309975;
+  transition: all 0.3s;
+}
+
+
+.card2:hover .tpbank{
+  color: white;
+}
+
+
+.card1 {
+  position: absolute;
+  margin-left: 150px;
+  width: 400px;
+  height: 250px;
+   border-radius: 5%; 
+  border-color: white;
+  box-shadow: 2px 7px 10px rgba(0, 0, 0, 0.15);
+  margin-bottom: 70px;
+  margin-top: 50px;
+  padding-left: 30px;
+  top: 3080px;
+}
+
+.card1:hover {
+  background-color: #309975;
+  transition: all 0.3s;
+}
+
+
+.card1:hover .tpbank{
+  color: white;
+}
+
+
+.footers {
+  color: white;
+  background: linear-gradient(107.56deg, #309975 0%, #58B368 100%);
+  font-family: "Poppins";
+}
+
+.white {
+  color: white;
+}
